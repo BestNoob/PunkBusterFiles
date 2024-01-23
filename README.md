@@ -18,4 +18,5 @@ This is more useful for developers not for clients, because also all other files
 https://www.evenbalance.com/downloads/bf4/pbsec.htm
 https://www.evenbalance.com/downloads/bf3/pbsec.htm
 https://www.evenbalance.com/downloads/bc2/pbsec.htm
+https://www.evenbalance.com/downloads/bf2/pbsec.htm
 https://www.evenbalance.com/downloads/bf2142/pbsec.htm
