@@ -1,5 +1,5 @@
 # PunkBusterFiles
-Legacy PunkBuster Files for PBBans protected Servers
+Legacy PunkBuster Files for PunkBuster protected Servers like Call of Duty 4, Battlefield 2 up to BF4 ...
 
 Normally you can download all legacy PB files here from the PBBans Website, but for some reason sometime its broken:
 https://community.pbbans.com/files/category/7-legacy-punkbuster-files/
